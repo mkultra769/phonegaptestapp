@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.mkultra.empdir"
+        versionCode="10"
+        version   = "1.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Employee Directory</name>
+
+    <description>
+        A simple employee directory application
+    </description>
+
+    <author href="http://mkultra.com" email="mkultra769@gmail.com">
+        Mk Ultra
+    </author>
+
+</widget>
